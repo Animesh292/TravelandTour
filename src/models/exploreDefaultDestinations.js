@@ -2,28 +2,6 @@ const ExploreDestination = require("./exploreDestination");
 const mongoose = require("mongoose");
 const express = require("express");
 
-//Function to get the coordinates of a location using Googlemaps Geocoding API
-// async function getCoordinates(location) {
-//   const apiKey = "AIzaSyBs5RY08EFRVI0J4zvoFnjeKKGda-ystp4";
-//   try {
-//     const response = await fetch(
-//       `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(
-//         location
-//       )}&key=${apiKey}`
-//     );
-//     const data = await response.json();
-//     if (data.results.length > 0) {
-//       const location = data.results[0].geometry.location;
-//       return { latitude: location.lat, longitude: location.lng };
-//     } else {
-//       throw new Error("Location not found");
-//     }
-//   } catch (error) {
-//     console.error("Error fetching location:", error);
-//     return null;
-//   }
-// }
-
 const exploreDefaultDestinations = [
   {
     place: ["अयोध्या", "Ayodhya"],
