@@ -47,7 +47,7 @@ const exploreDefaultDestinations = [
     cuisines: [
       {
         cuisine: "Kachoris",
-        image: "/images/cuisines/kachori.jpg",
+        image: "/images/cuisines/kachori1.jpg",
       },
       {
         cuisine: "Chaat",
@@ -59,7 +59,7 @@ const exploreDefaultDestinations = [
       },
       {
         cuisine: "Rabri",
-        image: "/images/cuisines/Rabdi.jpg",
+        image: "/images/cuisines/rabdi.jpg",
       },
       {
         cuisine: "Gulab Jamun",
