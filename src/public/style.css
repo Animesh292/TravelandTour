@@ -4,9 +4,6 @@
   box-sizing: border-box;
 }
 
-p {
-  color: #000;
-}
 @font-face {
   font-family: ShantellSans;
   src: url(ShantellSans-Italic.ttf);
