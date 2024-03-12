@@ -1549,7 +1549,7 @@ div.card-body {
 
   .events .carousel-item img {
     border-radius: 20px;
-    height: 46vh;
+    height: 40vh;
     transition: transform 1s ease;
   }
   .events .carousel-item img:hover {
