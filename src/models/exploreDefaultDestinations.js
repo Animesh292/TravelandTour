@@ -1770,7 +1770,7 @@ const exploreDefaultDestinations = [
       },
       {
         cuisine: "Thukpa",
-        image: "/images/cuisines/thukpa.jpg",
+        image: "/images/cuisines/Thukpa.jpg",
       },
       {
         cuisine: "Paneer Parathe",
