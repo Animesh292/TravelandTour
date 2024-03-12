@@ -2389,7 +2389,7 @@ const exploreDefaultDestinations = [
       {
         event: "Holi",
         desc: " The festival of colors, Holi, is celebrated with great fervor in Delhi, usually in March.",
-        image: "/images/events/Holi1.jpg",
+        image: "/images/events/holi1.jpg",
       },
       {
         event: "Christmas And New Year",
