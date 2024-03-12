@@ -920,7 +920,7 @@ const exploreDefaultDestinations = [
       },
       {
         cuisine: "Jhangore ki kheer",
-        image: "/images/cuisines/jhangorakikheer.jpg",
+        image: "/images/cuisines/Jhangorakikheer.jpg",
       },
       {
         cuisine: "Bal Mithai",
