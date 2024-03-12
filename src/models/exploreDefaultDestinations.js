@@ -1089,7 +1089,7 @@ const exploreDefaultDestinations = [
       },
       {
         cuisine: "Siddu",
-        image: "/images/cuisines/Siddu1.jpg",
+        image: "/images/cuisines/siddu1.jpg",
       },
       {
         cuisine: "Dham",
@@ -1097,7 +1097,7 @@ const exploreDefaultDestinations = [
       },
       {
         cuisine: "Thenthuk Soup",
-        image: "/images/cuisines/ThenthukSoup.jpg",
+        image: "/images/cuisines/thenthuksoup.jpg",
       },
       {
         cuisine: "Kale chane ka khatta",
