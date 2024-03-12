@@ -1287,7 +1287,7 @@ const exploreDefaultDestinations = [
       },
       {
         cuisine: "Dahi Vada",
-        image: "/images/cuisines/dahivada2.jpg",
+        image: "/images/cuisines/dahiVada2.jpg",
       },
     ],
     accommodations: [
