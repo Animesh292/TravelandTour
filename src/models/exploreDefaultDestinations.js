@@ -1384,7 +1384,7 @@ const exploreDefaultDestinations = [
     place: ["शिमला", "Shimla"],
     description: `<h2>Embrace the Majesty: Shimla, Where Time Stands Still</h2>
         <p>Nestled in the picturesque hills of Himachal Pradesh, Shimla beckons travelers with its timeless charm and colonial grandeur. Fondly known as the "Queen of Hill Stations," Shimla captivates visitors with its lush greenery, snow-capped peaks, and Victorian-era architecture. A stroll along the Mall Road reveals a blend of old-world charm and modern vibrancy, with quaint shops, bustling markets, and colonial buildings lining the promenade. Visitors can explore historic landmarks such as the Christ Church, Viceregal Lodge, and Jakhu Temple, each offering glimpses into Shimla's rich heritage and cultural tapestry. For adventure seekers, Shimla offers thrilling activities like trekking, paragliding, and skiing during the winter months. Whether indulging in leisurely walks amidst pine-scented forests, savoring local delicacies at cozy cafes.</p>`,
-    image: "/images/Shimla1.jpg",
+    image: "/images/shimla1.jpg",
     exploreLink: "/explore/Rishikesh",
     activities: [
       {
