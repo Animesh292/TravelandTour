@@ -2023,7 +2023,7 @@ const exploreDefaultDestinations = [
     place: ["उदयपुर", "Udaipur"],
     description: `<h2>Udaipur: Where Royalty Reigns and Romance Resides – Discover the Essence of Royal Rajasthan.</h2>
         <p>Udaipur, the "City of Lakes" in Rajasthan, captivates with its regal charm and serene beauty. From the majestic City Palace to the shimmering waters of Lake Pichola, every corner tells a tale of grandeur and romance. Lose yourself in the labyrinthine lanes of the old city, adorned with vibrant bazaars and ornate havelis. Whether cruising on Lake Fateh Sagar or savoring Rajasthani cuisine with a view, Udaipur enchants with its timeless elegance.</p>`,
-    image: "/images/Udaipur1.jpg",
+    image: "/images/udaipur1.jpg",
     exploreLink: "/explore/Udaipur",
     activities: [
       {
