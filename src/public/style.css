@@ -132,6 +132,15 @@ a {
   animation-delay: 35s; /* Make sure this delay is longer than the animation duration */
 }
 
+.image:nth-child(7) {
+  animation: swipeAnimation 10s infinite;
+  animation-delay: 42s; /* Make sure this delay is longer than the animation duration */
+}
+.image:nth-child(8) {
+  animation: swipeAnimation 10s infinite;
+  animation-delay: 49s; /* Make sure this delay is longer than the animation duration */
+}
+
 .experience {
   height: 65vh;
   min-width: 100%;
