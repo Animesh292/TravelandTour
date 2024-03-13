@@ -1098,13 +1098,13 @@ div.card-body {
 
   .contact {
     color: #fff;
-    margin: 8.5vw 0vw 0 10vw;
+    margin: 8.2vw 10vw 0 10vw;
+    border-top: 1px solid #fefbf6;
   }
 
   .contact h3 {
     font-size: 5.4vw;
-    /* text-align: center; */
-    /* margin-left: 2vw; */
+    margin-top: 2vw;
   }
 
   .contact .contact-details {
