@@ -940,7 +940,7 @@ div.card-body {
 
   .features .card {
     height: 100%;
-    width: 26vw;
+    width: 40vw;
     border-top: 2px solid black;
     padding: 0vw 3vw;
     box-shadow: 10px solid rgba(86, 64, 33, 0.066);
@@ -987,6 +987,10 @@ div.card-body {
     text-align: center;
     font-family: ShantellSans2;
     color: #3f3434;
+  }
+
+  .travel-blog .col {
+    padding: 4vw;
   }
 
   .card-img-top {
