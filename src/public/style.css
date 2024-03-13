@@ -1018,6 +1018,7 @@ div.card-body {
   .footer .main-footer {
     display: flex;
     font-size: 2.3vw;
+    flex-direction: column;
   }
 
   .enquire-us {
