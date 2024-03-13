@@ -1123,6 +1123,10 @@ div.card-body {
     margin-right: 1.8vw;
   }
 
+  .contact-details .address {
+    width: 56vw;
+  }
+
   .footer .copyright {
     text-align: center;
     color: #fff;
