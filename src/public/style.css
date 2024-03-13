@@ -1018,6 +1018,7 @@ div.card-body {
   .footer .main-footer {
     display: flex;
     font-size: 2.3vw;
+    margin-top: 10vw;
     flex-direction: column;
   }
 
@@ -1055,54 +1056,60 @@ div.card-body {
   }
 
   .follow-us h3 {
-    font-size: 4.4vw;
+    font-size: 5.4vw;
+    display: flex;
+    justify-content: center;
   }
 
   .follow-us span {
     font-size: 3.8vw;
+    display: flex;
+    justify-content: center;
   }
 
   .feedback-form {
-    width: 36vw;
-    margin: 7.9vw 2.5vw 0;
+    width: 86vw;
+    margin: 7.9vw 8.5vw 0;
   }
 
   .feedback-form p {
     color: #fff;
     font-family: 0.5vw;
+    font-size: 4vw;
   }
 
   .feedback-form input {
-    font-size: 2.3vw;
+    font-size: 3.3vw;
   }
 
   .feedback-form button {
-    font-size: 2.3vw;
-    height: 7.2vw;
+    font-size: 3.3vw;
+    height: 9.2vw;
   }
 
   .contact {
     color: #fff;
-    margin: 8.5vw 3vw 0 1vw;
+    margin: 8.5vw 3vw 0 10vw;
   }
 
   .contact h3 {
-    font-size: 4.4vw;
+    font-size: 5.4vw;
+    text-align: center;
   }
 
   .contact .contact-details {
-    margin-top: 2vw;
-    font-size: 1.8vw;
+    margin-top: 3vw;
+    font-size: 3vw;
   }
 
   .contact .contact-details span {
-    padding-left: 3.9vw;
+    padding-left: 7.9vw;
   }
 
   .footer .copyright {
     text-align: center;
     color: #fff;
-    padding-top: 47vw;
+    padding-top: 10vw;
     margin-top: 20vw;
     font-size: 2.6vw;
   }
