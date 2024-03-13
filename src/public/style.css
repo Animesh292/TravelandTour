@@ -1096,6 +1096,7 @@ div.card-body {
   .contact h3 {
     font-size: 5.4vw;
     /* text-align: center; */
+    margin-left: 10vw;
   }
 
   .contact .contact-details {
