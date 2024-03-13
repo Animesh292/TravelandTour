@@ -1008,7 +1008,7 @@ div.card-body {
 
   .footer {
     position: relative;
-    bottom: -10vh;
+    bottom: 0vh;
     height: 66vh;
     width: 100%;
     background-color: #423c3c;
