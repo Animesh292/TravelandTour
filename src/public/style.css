@@ -333,10 +333,10 @@ div.card-body {
   z-index: -9;
 }
 
-/* .wrapper-part3 img {
-  height: 100%;
+.wrapper-part3 img {
+  height: 76vh;
   width: 100%;
-} */
+}
 
 .explore-desc {
   position: relative;
@@ -1206,6 +1206,11 @@ div.card-body {
     position: relative;
     z-index: +9;
   }
+
+  .wrapper-part3 img {
+    height: 88.9vw;
+    width: 100%;
+  }
   .containerTop {
     width: 100%;
     height: 16% !important;
@@ -1214,17 +1219,17 @@ div.card-body {
   .explore-desc {
     position: relative;
     z-index: 1;
-    top: -66vh;
-    width: 89vw;
+    top: -38vh;
+    width: 71vw;
     height: 3vh;
     font-family: ShantellSans3;
-    color: white;
-    font-size: 0.63rem;
+    color: rgba(255, 255, 255, 0.82);
+    font-size: 0.41rem;
     opacity: 11;
   }
 
   .explore-desc h2 {
-    font-size: 1.1rem;
+    font-size: 0.8rem;
   }
 
   .activities {
@@ -1438,6 +1443,7 @@ div.card-body {
     font-family: ShantellSans1;
     font-size: 2.7vw;
     line-height: 1.5;
+    color: #000;
   }
 
   .culture {
@@ -1479,6 +1485,7 @@ div.card-body {
   .culture .box p {
     font-family: ShantellSans1;
     font-weight: lighter;
+    color: #000;
     font-size: 0.5rem;
     line-height: 1.8;
     text-wrap: stable;
@@ -1539,6 +1546,7 @@ div.card-body {
 
   .text-tips p {
     font-family: ShantellSans1;
+    color: #000;
     font-size: 1.87vw;
   }
 
@@ -1554,7 +1562,7 @@ div.card-body {
     color: #b97027;
     text-align: center;
     font-size: 1.4rem;
-    padding-top: 8vw;
+    padding-top: 4.5vw;
   }
 
   .events p {
