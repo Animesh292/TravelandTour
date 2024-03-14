@@ -1562,7 +1562,7 @@ div.card-body {
     color: #b97027;
     text-align: center;
     font-size: 1.4rem;
-    padding-top: 4.5vw;
+    padding-top: 8vw;
   }
 
   .events p {
@@ -1586,7 +1586,7 @@ div.card-body {
   }
 
   .carousel-caption {
-    padding-bottom: 42vw;
+    padding-bottom: 68vw;
   }
 
   .events .carousel .carousel-item {
