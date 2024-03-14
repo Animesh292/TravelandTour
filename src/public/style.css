@@ -1447,7 +1447,7 @@ div.card-body {
   }
 
   .culture {
-    margin: 12vw 3.6vw 22vw;
+    margin: 9vw 3.6vw 18vw;
     height: 50vh;
     max-width: 100%;
   }
@@ -1460,12 +1460,12 @@ div.card-body {
     text-align: center;
     display: block;
     position: relative;
-    padding: 4vw 0;
+    padding: 1.7vw 0;
   }
 
   .culture .box {
-    margin-top: 40vw;
-    height: 40vw;
+    margin-top: 33vw;
+    height: 44vw;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -1502,7 +1502,7 @@ div.card-body {
   .travel {
     height: 60vh;
     max-width: 100%;
-    margin-top: 44vw;
+    margin-top: 40vw;
   }
 
   .inner-container {
@@ -1526,9 +1526,9 @@ div.card-body {
     font-style: italic;
     color: #b97027;
     text-align: center;
-    margin-top: 19vw;
+    margin-top: 18vw;
     font-size: 1.4rem;
-    padding-top: 10vw;
+    padding-top: 2vw;
   }
 
   .text-tips {
@@ -1562,7 +1562,7 @@ div.card-body {
     color: #b97027;
     text-align: center;
     font-size: 1.4rem;
-    padding-top: 8vw;
+    padding-top: 2vw;
   }
 
   .events p {
