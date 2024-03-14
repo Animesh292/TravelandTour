@@ -334,14 +334,14 @@ div.card-body {
 }
 
 .wrapper-part3 img {
-  height: 76vh;
+  height: 86vh;
   width: 100%;
 }
 
 .explore-desc {
   position: relative;
   z-index: 1;
-  top: -68vh;
+  top: -62vh;
   width: 49vw;
   height: 10vh;
   font-family: ShantellSans3;
