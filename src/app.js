@@ -45,7 +45,7 @@ app.use(cookieParser());
 app.use(checkForAuthenticationCookie("token"));
 
 // Owner's WhatsApp Number
-const ownerWhatsAppNumber = "+917900643702";
+const ownerWhatsAppNumber = "+919027700426";
 // Twilio Credentials
 
 const accountSid = "AC458fee60982c6808189ac051ffca5182";
