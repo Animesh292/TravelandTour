@@ -211,15 +211,15 @@ a {
 .travel-blog {
   margin-top: 25vw;
   position: relative;
-  min-height: 65vh;
+  min-height: 75vh;
   min-width: 100%;
 }
 
-@media (max-width: 991px) and (max-height: 674px) {
+/* @media (max-width: 991px) and (max-height: 674px) {
   .travel-blog {
     margin-top: 59vw;
   }
-}
+} */
 
 .travel-blog h1 {
   text-align: center;
@@ -830,6 +830,32 @@ div.card-body {
   font-family: ShantellSans1;
   font-weight: 500;
   color: #3aa09e;
+}
+
+.sideMailBox {
+  position: fixed;
+  top: 20vw;
+  height: 8vw;
+  width: 8vw;
+  display: flex;
+  z-index: 99;
+  align-items: center;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  background-color: rgba(139, 221, 223, 0.546);
+}
+
+.sideMailBox img {
+  height: 5vw;
+  width: 5.5vw;
+  padding-left: 0.3vw;
+  transform: rotate(0deg);
+  transition: transform 0.4s ease;
+}
+
+.sideMailBox img:hover {
+  transform: scale(1.2);
+  cursor: pointer;
 }
 
 @media (max-width: 900px) {
@@ -1679,6 +1705,32 @@ div.card-body {
     padding-left: 6vw;
     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
       "Lucida Sans", Arial, sans-serif;
+  }
+
+  .sideMailBox {
+    position: fixed;
+    top: 50vw;
+    height: 16vw;
+    width: 16vw;
+    display: flex;
+    z-index: 99;
+    align-items: center;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: rgba(139, 221, 223, 0.546);
+  }
+
+  .sideMailBox img {
+    height: 10vw;
+    width: 10.5vw;
+    padding-left: 0.5vw;
+    transform: rotate(0deg);
+    transition: transform 0.4s ease;
+  }
+
+  .sideMailBox img:hover {
+    transform: scale(1.2);
+    cursor: pointer;
   }
 
   .aboutusimage {
