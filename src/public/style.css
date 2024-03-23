@@ -1636,7 +1636,7 @@ div.card-body {
 
   .travelguideimage img {
     height: 58vh;
-    min-width: 100%;
+    max-width: 100%;
   }
   .mainTitleGuide h2 {
     margin: 2vw 2vw;
