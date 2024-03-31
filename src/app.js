@@ -74,7 +74,7 @@ app.post("/home/send-message", (req, res) => {
       res
         .status(201)
         .send(
-          "Your inquiry has been received. We will get back to you shortly."
+          "Your Enquiry has been received. We will get back to you shortly."
         );
     })
     .catch((error) => {
