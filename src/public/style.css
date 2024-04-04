@@ -858,6 +858,32 @@ div.card-body {
   cursor: pointer;
 }
 
+.sideWhatsAppBox {
+  position: fixed;
+  top: 29vw;
+  height: 8vw;
+  width: 8vw;
+  display: flex;
+  z-index: 99;
+  align-items: center;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  background-color: rgba(139, 221, 223, 0.546);
+}
+
+.sideWhatsAppBox img {
+  height: 5vw;
+  width: 5.5vw;
+  padding-left: 0.3vw;
+  transform: rotate(0deg);
+  transition: transform 0.4s ease;
+}
+
+.sideWhatsAppBox img:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
 @media (max-width: 900px) {
   .navbar {
     background-color: rgba(38, 100, 138, 0.2);
